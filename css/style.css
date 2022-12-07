@@ -1,0 +1,119 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    /* border-image: linear-gradient(red, orange);
+    border-image-slice: 1;
+    border: 5px solid palevioletred; */
+    color: brown;
+}
+
+body {
+    background-color: rgb(234, 209, 221);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 50px;
+    overflow: hidden;
+
+
+}
+
+li {
+    float: left;
+    padding-left: 200px;
+
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(239, 134, 211);
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    font-size: 40px;
+    color: rgb(130, 139, 34);
+
+
+}
+
+.first {
+    color: rgb(66, 66, 235);
+    font-style: italic;
+
+    width: 50%;
+    float: left;
+
+    display: inline-block;
+
+
+
+}
+
+.first img {
+    margin-left: 120px;
+}
+
+.first p {
+    margin-left: 80px;
+    font-size: 25px;
+}
+
+.picture {}
+
+.side {}
+
+
+
+
+.img3 {
+    margin-left: 30%;
+    margin-top: 100px;
+    display: inline-block;
+}
+
+
+.second {
+    float: left;
+    width: 30%;
+    margin-top: 200px;
+    margin-left: 10px;
+
+
+}
+
+.second p {
+    font-size: 30px;
+    color: blueviolet;
+}
+
+.third {
+    float: left;
+
+    width: 50%;
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+
+}
+
+.third p {
+    font-size: 40px;
+    font-style: italic;
+    color: tomato;
+    margin-left: 100px;
+}
+
+.third img {
+    margin-left: 150px;
+}
+
+.m {
+    margin-left: 500px;
+}
+
+#k {}
